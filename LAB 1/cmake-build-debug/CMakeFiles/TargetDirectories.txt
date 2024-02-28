@@ -1,0 +1,3 @@
+C:/Users/redan/Desktop/Programare Orientata Obiect (POO)/cmake-build-debug/CMakeFiles/Programare_Orientata_Obiect__POO_.dir
+C:/Users/redan/Desktop/Programare Orientata Obiect (POO)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/redan/Desktop/Programare Orientata Obiect (POO)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
